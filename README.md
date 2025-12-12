@@ -27,11 +27,16 @@ I build reliable ETL pipelines, dashboards, and automated solutions that help or
 - **API–to–Warehouse ETL Pipelines**  
   Python pipelines (Pandas / PySpark) integrating API and SQL Server data into dashboards and automated Excel reports.
 
+- **End-to-end data engineering project using a dataset from Kaggle**
+  Docker + Kestra + Google Cloud Storage + BigQuery + LookerStudio 
+  _<https://github.com/sarasabaterochando/-Amazon_project_DE_saraisab>_
+
 ### 🔹 Python Projects
 - **Warehouse Labeling System (AECOC compliant)**  
   Python desktop app that reduced logistics errors by 90%.
 
-- Coming soon: smaller Python utilities, automation scripts, and data cleaning notebooks.
+- Smaller Python utilities, automation scripts, and data cleaning notebooks.
+  _<https://github.com/sarasabaterochando/Python-scripts>_
 
 ### 🔹 BI & Analytics
 - **Power BI Dashboards** (PL-300)  
