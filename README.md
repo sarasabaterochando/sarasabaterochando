@@ -1,16 +1,83 @@
-## Hi there 👋
+# 👋 Hi, I'm Sara Sabater
 
-<!--
-**sarasabaterochando/sarasabaterochando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Specialist | BI Developer | Data Engineering Enthusiast**
 
-Here are some ideas to get you started:
+I am a data professional with **13+ years of experience** in data extraction, reporting, and user support.  
+Certified **Power BI Data Analyst (PL-300)** and skilled in **Python, SQL Server, BigQuery, Spark, Kestra**, and modern data engineering tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build reliable ETL pipelines, dashboards, and automated solutions that help organizations turn raw data into actionable insights.
+
+---
+
+## 🚀 Technical Skills
+- **Programming:** Python (Pandas, PySpark), SQL  
+- **Databases:** SQL Server, BigQuery, PostgreSQL  
+- **Data Engineering:** Kestra, Airflow, dbt, Docker, Terraform, Google Cloud (GCP)  
+- **BI & Visualization:** Power BI, Looker Studio, DevExpress  
+- **Other:** Git, API integration, ETL/ELT workflows
+
+---
+
+## 🛠️ Projects
+
+### 🔹 Data Engineering Projects
+- **Industrial Machine Data Pipeline (Python + Kestra + BigQuery)**  
+  End-to-end ETL workflow collecting operational machine data and storing it in BigQuery for analytics.
+
+- **API–to–Warehouse ETL Pipelines**  
+  Python pipelines (Pandas / PySpark) integrating API and SQL Server data into dashboards and automated Excel reports.
+
+### 🔹 Python Projects
+- **Warehouse Labeling System (AECOC compliant)**  
+  Python desktop app that reduced logistics errors by 90%.
+
+- Coming soon: smaller Python utilities, automation scripts, and data cleaning notebooks.
+
+### 🔹 BI & Analytics
+- **Power BI Dashboards** (PL-300)  
+  Business reports using SQL Server, DAX, and data modeling best practices.
+
+- **DevExpress Dashboards & Crystal Reports**  
+  Operational and financial reporting solutions.
+
+
+
+---
+
+## 💼 Work Experience
+### **BI Developer · ETL SQL & Python Developer · ERP Functional Consultant**  
+
+- Designed Python ETL pipelines integrating APIs, SQL Server, and files into Power BI and Excel.  
+- Led the company’s first **data engineering initiative** using Python, Kestra, and BigQuery.  
+- Developed BI dashboards with Power BI and DevExpress.  
+- Created and optimized SQL stored procedures, views, and operational reports.
+
+
+---
+
+## 🎓 Education & Certifications
+- **PL-300: Microsoft Power BI Data Analyst Associate (2025)**  
+- **Data Engineering Zoomcamp – DataTalks Club (2025)**  
+  Spark, BigQuery, GCP, Kestra, Terraform, Docker, dbt  
+- **IBM SkillsBuild – AI & Data Projects Certificate (2024)**  
+- **Hyperskill – Databases with SQL and Python (2024)**  
+- Higher Vocational Training in **Software Application Development**  
+- Higher Vocational Training in **Business IT**
+
+---
+
+## 🌐 Languages
+- Spanish: Native  
+- English: B2 Upper Intermediate (EOI Certified)
+
+---
+
+## 📫 Contact
+Feel free to reach out!
+
+📧 Email: _<saraisab@gmail.com>_  
+🔗 LinkedIn: _<www.linkedin.com/in/sara-sabater-23642330b>_  
+
+---
+
+⭐ *Thanks for visiting my profile!*
