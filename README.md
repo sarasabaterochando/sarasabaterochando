@@ -14,7 +14,7 @@ I build reliable ETL pipelines, dashboards, and automated solutions that help or
 - **Databases:** SQL Server, BigQuery, PostgreSQL  
 - **Data Engineering:** Kestra, Airflow, dbt, Docker, Terraform, Google Cloud (GCP)  
 - **BI & Visualization:** Power BI, Looker Studio, DevExpress  
-- **Other:** Git, API integration, ETL/ELT workflows
+- **Other:** Git, API integration, ETL/ELT workflows, Jira
 
 ---
 
