@@ -22,7 +22,7 @@ I build reliable ETL pipelines, dashboards, and automated solutions that help or
 
 ### 🔹 Data Engineering Projects
 - **Shipment Batch Data Pipeline (PySpark + Airflow + BigQuery + PowerBi)**  
-  End-to-end ETL workflow that processes shipment batch files using Google Cloud Platform services. The pipeline reads .ini files, processes them with PySpark on Dataproc, stores the data in BigQuery, and creates reports with Power BI.
+  End-to-end ETL workflow that processes shipment batch files using Google Cloud Platform services. The pipeline reads .ini files, processes them with PySpark on Dataproc, stores the data in BigQuery, and creates reports with Power BI.  
   _<https://github.com/sarasabaterochando/de-shipment-batch-analytics-pipeline>_
 
 - **API–to–Warehouse ETL Pipelines**  
