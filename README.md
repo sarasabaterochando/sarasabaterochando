@@ -38,7 +38,11 @@ I build reliable ETL pipelines, dashboards, and automated solutions that help or
 
 - Smaller Python utilities, automation scripts, and data cleaning notebooks.   
   _<https://github.com/sarasabaterochando/Python-scripts>_
+  
   _<https://github.com/sarasabaterochando/calculator-for-investors>_
+
+  _<https://github.com/sarasabaterochando/Simple-Banking-System-Python>_
+  
 
 ### 🔹 BI & Analytics
 - **Power BI Dashboards** (PL-300)  
