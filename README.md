@@ -44,6 +44,8 @@ I build reliable ETL pipelines, dashboards, and automated solutions that help or
   _<https://github.com/sarasabaterochando/Simple-Banking-System-Python>_
 
   _<https://github.com/sarasabaterochando/loan-calculator>_
+
+  _<https://github.com/sarasabaterochando/api_data_exporter>_
   
   
 
