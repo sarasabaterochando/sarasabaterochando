@@ -33,16 +33,20 @@ I build reliable ETL pipelines, dashboards, and automated solutions that help or
 - **End-to-end data engineering project using a dataset from Kaggle**
   Docker + Kestra + Google Cloud Storage + BigQuery + LookerStudio   
   _<https://github.com/sarasabaterochando/-Amazon_project_DE_saraisab>_
+  
   ![Diagrama](https://github.com/saraisab/Amazon_project_DE_saraisab/raw/main/images/Flowchart.jpeg)
 
 
 ### 🔹 BI & Analytics
 - **Power BI Dashboards** (PL-300 Certified)  
   Business reports using SQL Server, DAX, and data modeling best practices.  
-  * _<https://github.com/sarasabaterochando/powerBiSuperSalesStore>_
+  
+  * _<https://github.com/sarasabaterochando/powerBiSuperSalesStore>_  
+    
   ![SuperstoreSalesImage](https://github.com/sarasabaterochando/powerBiSuperSalesStore/blob/main/images/main_2.png)
 
-  * _<https://github.com/sarasabaterochando/de-shipment-batch-analytics-pipeline/tree/main/PowerBI>_
+  * _<https://github.com/sarasabaterochando/de-shipment-batch-analytics-pipeline/tree/main/PowerBI>_  
+  
   ![ShipmentsOperationsImage](https://github.com/sarasabaterochando/de-shipment-batch-analytics-pipeline/blob/main/PowerBI/images/shipment_operations.png)
 
 
