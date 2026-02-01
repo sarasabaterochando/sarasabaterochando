@@ -48,9 +48,11 @@ I build reliable ETL pipelines, dashboards, and automated solutions that help or
   
 
 ### 🔹 BI & Analytics
-- **Power BI Dashboards** (PL-300)  
+- **Power BI Dashboards** (PL-300 Certified)  
   Business reports using SQL Server, DAX, and data modeling best practices.  
-  _<https://github.com/sarasabaterochando/powerBiSuperSalesStore>_
+  * _<https://github.com/sarasabaterochando/powerBiSuperSalesStore>_
+  
+  * _<https://github.com/sarasabaterochando/de-shipment-batch-analytics-pipeline/tree/main/PowerBI>_
 
 - **DevExpress Dashboards & Crystal Reports**  
   Operational and financial reporting solutions.
