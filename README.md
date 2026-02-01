@@ -24,6 +24,8 @@ I build reliable ETL pipelines, dashboards, and automated solutions that help or
 - **Shipment Batch Data Pipeline (PySpark + Airflow + BigQuery + PowerBi)**  
   End-to-end ETL workflow that processes shipment batch files using Google Cloud Platform services. The pipeline reads .ini files, processes them with PySpark on Dataproc, stores the data in BigQuery, and creates reports with Power BI.  
   _<https://github.com/sarasabaterochando/de-shipment-batch-analytics-pipeline>_
+  
+  ![Diagrama](https://github.com/sarasabaterochando/de-shipment-batch-analytics-pipeline/blob/main/images/Diagrama.jpg)
 
 - **API–to–Warehouse ETL Pipelines**  
   Python pipelines (Pandas / PySpark) integrating API and SQL Server data into dashboards and automated Excel reports.
@@ -31,6 +33,23 @@ I build reliable ETL pipelines, dashboards, and automated solutions that help or
 - **End-to-end data engineering project using a dataset from Kaggle**
   Docker + Kestra + Google Cloud Storage + BigQuery + LookerStudio   
   _<https://github.com/sarasabaterochando/-Amazon_project_DE_saraisab>_
+  ![Diagrama](https://github.com/saraisab/Amazon_project_DE_saraisab/raw/main/images/Flowchart.jpeg)
+
+
+### 🔹 BI & Analytics
+- **Power BI Dashboards** (PL-300 Certified)  
+  Business reports using SQL Server, DAX, and data modeling best practices.  
+  * _<https://github.com/sarasabaterochando/powerBiSuperSalesStore>_
+  ![SuperstoreSalesImage](https://github.com/sarasabaterochando/powerBiSuperSalesStore/blob/main/images/main_2.png)
+
+  * _<https://github.com/sarasabaterochando/de-shipment-batch-analytics-pipeline/tree/main/PowerBI>_
+  ![ShipmentsOperationsImage](https://github.com/sarasabaterochando/de-shipment-batch-analytics-pipeline/blob/main/PowerBI/images/shipment_operations.png)
+
+
+- **DevExpress Dashboards & Crystal Reports**  
+  Operational and financial reporting solutions.
+
+
 
 ### 🔹 Python Projects
 - **Warehouse Labeling System (AECOC compliant)**  
@@ -46,19 +65,6 @@ I build reliable ETL pipelines, dashboards, and automated solutions that help or
   _<https://github.com/sarasabaterochando/loan-calculator>_
  
   
-
-### 🔹 BI & Analytics
-- **Power BI Dashboards** (PL-300 Certified)  
-  Business reports using SQL Server, DAX, and data modeling best practices.  
-  * _<https://github.com/sarasabaterochando/powerBiSuperSalesStore>_
-  
-  * _<https://github.com/sarasabaterochando/de-shipment-batch-analytics-pipeline/tree/main/PowerBI>_
-
-- **DevExpress Dashboards & Crystal Reports**  
-  Operational and financial reporting solutions.
-
-
-
 ---
 
 ## 💼 Work Experience
